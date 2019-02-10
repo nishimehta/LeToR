@@ -1,0 +1,2 @@
+# LeToR
+This project aims to solve the Learning to Rank problem which arises in Information Retrieval through linear regression. The two methods used for training the linear regression model are closed form solution and stochastic gradient descent. Through this project, we try to find the optimal solution to this problem by comparing different values for hyperparameters on the linear regression model.
